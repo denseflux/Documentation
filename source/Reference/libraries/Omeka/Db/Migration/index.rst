@@ -1,14 +1,10 @@
 ````````````````````````````
-Libraries/Omeka/Db/Migration
+libraries/Omeka/Db/Migration
 ````````````````````````````
 
 .. toctree::
 
-    AbstractMigration
-    Exception
-    Manager
-    MigrationInterface
-
-
-.. toctree::
-
+   Omeka_Db_Migration_Manager
+   Omeka_Db_Migration_AbstractMigration
+   Omeka_Db_Migration_MigrationInterface
+   Omeka_Db_Migration_Exception

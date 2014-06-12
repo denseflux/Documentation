@@ -1,11 +1,7 @@
 `````````````````````````````
-Libraries/Omeka/Plugin/Broker
+libraries/Omeka/Plugin/Broker
 `````````````````````````````
 
 .. toctree::
 
-    Factory
-
-
-.. toctree::
-
+   Omeka_Plugin_Broker_Factory

@@ -1,12 +1,8 @@
 ```````````````````````
-Libraries/Omeka/Storage
+libraries/Omeka/Storage
 ```````````````````````
 
 .. toctree::
 
-    Exception
-
-
-.. toctree::
-
-    Adapter/index
+   Omeka_Storage_Exception
+   Adapter/index

@@ -1,14 +1,10 @@
 ```````````````````````````
-Libraries/Omeka/Test/Helper
+libraries/Omeka/Test/Helper
 ```````````````````````````
 
 .. toctree::
 
-    Db
-    DbProfiler
-    Mail
-    Plugin
-
-
-.. toctree::
-
+   Omeka_Test_Helper_Db
+   Omeka_Test_Helper_Plugin
+   Omeka_Test_Helper_Mail
+   Omeka_Test_Helper_DbProfiler

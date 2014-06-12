@@ -1,12 +1,8 @@
 ``````````````````````````
-Libraries/Omeka/Record/Api
+libraries/Omeka/Record/Api
 ``````````````````````````
 
 .. toctree::
 
-    AbstractRecordAdapter
-    RecordAdapterInterface
-
-
-.. toctree::
-
+   Omeka_Record_Api_AbstractRecordAdapter
+   Omeka_Record_Api_RecordAdapterInterface

@@ -1,18 +1,14 @@
 `````````````
-Models/Output
+models/Output
 `````````````
 
 .. toctree::
 
-    CollectionOmekaXml
-    FileOmekaXml
-    ItemAtom
-    ItemContainerOmekaXml
-    ItemDcmesXml
-    ItemOmekaXml
-    ItemRss2
-    OmekaJson
-
-
-.. toctree::
-
+   Output_ItemAtom
+   Output_ItemOmekaXml
+   Output_OmekaJson
+   Output_ItemDcmesXml
+   Output_ItemRss2
+   Output_ItemContainerOmekaXml
+   Output_CollectionOmekaXml
+   Output_FileOmekaXml

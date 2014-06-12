@@ -1,13 +1,9 @@
 ``````````
-Models/Job
+models/Job
 ``````````
 
 .. toctree::
 
-    FileProcessUpload
-    ItemBatchEdit
-    SearchTextIndex
-
-
-.. toctree::
-
+   Job_FileProcessUpload
+   Job_SearchTextIndex
+   Job_ItemBatchEdit

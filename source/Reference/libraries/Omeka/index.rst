@@ -1,37 +1,32 @@
 ```````````````
-Libraries/Omeka
+libraries/Omeka
 ```````````````
 
 .. toctree::
 
-    AbstractSearch
-    Application
-    Captcha
-    Db
-    Form
-    Navigation
-    Storage
-    View
-
-
-.. toctree::
-
-    Acl/index
-    Application/index
-    Auth/index
-    Controller/index
-    Db/index
-    File/index
-    Filter/index
-    Form/index
-    Http/index
-    Job/index
-    Navigation/index
-    Output/index
-    Plugin/index
-    Record/index
-    Session/index
-    Storage/index
-    Test/index
-    Validate/index
-    View/index
+   Db/index
+   View/index
+   Application/index
+   Form/index
+   Omeka_Application
+   Omeka_Form
+   Test/index
+   Http/index
+   Acl/index
+   Output/index
+   Job/index
+   Session/index
+   Navigation/index
+   Omeka_Captcha
+   Omeka_View
+   Auth/index
+   File/index
+   Omeka_Navigation
+   Omeka_Storage
+   Validate/index
+   Plugin/index
+   Record/index
+   Controller/index
+   Omeka_Db
+   Filter/index
+   Storage/index

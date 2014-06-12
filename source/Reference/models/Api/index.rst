@@ -1,18 +1,14 @@
 ``````````
-Models/Api
+models/Api
 ``````````
 
 .. toctree::
 
-    Collection
-    Element
-    ElementSet
-    File
-    Item
-    ItemType
-    Tag
-    User
-
-
-.. toctree::
-
+   Api_ElementSet
+   Api_Element
+   Api_User
+   Api_File
+   Api_Item
+   Api_Collection
+   Api_Tag
+   Api_ItemType

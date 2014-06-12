@@ -1,12 +1,8 @@
 ``````````````````````````````
-Libraries/Omeka/Record/Builder
+libraries/Omeka/Record/Builder
 ``````````````````````````````
 
 .. toctree::
 
-    AbstractBuilder
-    Exception
-
-
-.. toctree::
-
+   Omeka_Record_Builder_Exception
+   Omeka_Record_Builder_AbstractBuilder

@@ -1,11 +1,7 @@
 ````````````````````
-Libraries/Omeka/Http
+libraries/Omeka/Http
 ````````````````````
 
 .. toctree::
 
-    Client
-
-
-.. toctree::
-
+   Omeka_Http_Client

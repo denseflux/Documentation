@@ -4,10 +4,10 @@ ResourcesController
 
 .. php:class:: ResourcesController
 
-    Package: :doc:`Controller </Reference/packages/Controller/index>`
+extends :php:class:`Omeka_Controller_AbstractActionController`
 
     The controller for API /resources.
 
     .. php:method:: indexAction()
-    
+
         Handle GET request without ID.

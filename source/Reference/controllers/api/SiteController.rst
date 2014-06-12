@@ -4,10 +4,10 @@ SiteController
 
 .. php:class:: SiteController
 
-    Package: :doc:`Controller </Reference/packages/Controller/index>`
+extends :php:class:`Omeka_Controller_AbstractActionController`
 
     The controller for API /site.
 
     .. php:method:: indexAction()
-    
+
         Handle GET request without ID.

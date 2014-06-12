@@ -4,6 +4,6 @@ ElementsController
 
 .. php:class:: ElementsController
 
-    Package: :doc:`Controller </Reference/packages/Controller/index>`
+extends :php:class:`Omeka_Controller_AbstractActionController`
 
     .. php:method:: elementFormAction()

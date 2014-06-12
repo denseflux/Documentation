@@ -1,13 +1,9 @@
 `````````````````````````````
-Libraries/Omeka/File/MimeType
+libraries/Omeka/File/MimeType
 `````````````````````````````
 
 .. toctree::
 
-    Detect
-    Exception
-
-
-.. toctree::
-
-    Detect/index
+   Omeka_File_MimeType_Detect
+   Detect/index
+   Omeka_File_MimeType_Exception

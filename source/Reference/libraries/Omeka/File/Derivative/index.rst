@@ -1,15 +1,11 @@
 ```````````````````````````````
-Libraries/Omeka/File/Derivative
+libraries/Omeka/File/Derivative
 ```````````````````````````````
 
 .. toctree::
 
-    AbstractStrategy
-    Creator
-    Exception
-    StrategyInterface
-
-
-.. toctree::
-
-    Image/index
+   Omeka_File_Derivative_StrategyInterface
+   Omeka_File_Derivative_Creator
+   Omeka_File_Derivative_AbstractStrategy
+   Omeka_File_Derivative_Exception
+   Strategy/index

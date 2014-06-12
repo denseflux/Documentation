@@ -1,11 +1,7 @@
 ```````````````````````````
-Libraries/Omeka/View/Helper
+libraries/Omeka/View/Helper
 ```````````````````````````
 
 .. toctree::
 
-    AbstractSearch
-
-
-.. toctree::
-
+   Omeka_View_Helper_AbstractSearch

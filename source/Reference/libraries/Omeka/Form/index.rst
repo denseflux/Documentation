@@ -1,12 +1,10 @@
 ````````````````````
-Libraries/Omeka/Form
+libraries/Omeka/Form
 ````````````````````
 
 .. toctree::
 
-    Admin
-    DisplayGroup
-
-
-.. toctree::
-
+   Decorator/index
+   Omeka_Form_Admin
+   Element/index
+   Omeka_Form_DisplayGroup

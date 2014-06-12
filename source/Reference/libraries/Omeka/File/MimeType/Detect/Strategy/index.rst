@@ -1,15 +1,11 @@
 `````````````````````````````````````````````
-Libraries/Omeka/File/MimeType/Detect/Strategy
+libraries/Omeka/File/MimeType/Detect/Strategy
 `````````````````````````````````````````````
 
 .. toctree::
 
-    Browser
-    FileCommand
-    Fileinfo
-    GetId3
-    MimeContentType
-
-
-.. toctree::
-
+   Omeka_File_MimeType_Detect_Strategy_Browser
+   Omeka_File_MimeType_Detect_Strategy_FileCommand
+   Omeka_File_MimeType_Detect_Strategy_MimeContentType
+   Omeka_File_MimeType_Detect_Strategy_GetId3
+   Omeka_File_MimeType_Detect_Strategy_Fileinfo

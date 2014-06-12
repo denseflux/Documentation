@@ -1,15 +1,12 @@
 ``````````````````````
-Libraries/Omeka/Record
+libraries/Omeka/Record
 ``````````````````````
 
 .. toctree::
 
-    AbstractRecord
-    Exception
-    Iterator
-
-
-.. toctree::
-
-    Builder/index
-    Mixin/index
+   Omeka_Record_Exception
+   Omeka_Record_Iterator
+   Mixin/index
+   Builder/index
+   Omeka_Record_AbstractRecord
+   Api/index

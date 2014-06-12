@@ -1,16 +1,12 @@
 ````````````
-Models/Mixin
+models/Mixin
 ````````````
 
 .. toctree::
 
-    ElementText
-    Owner
-    PublicFeatured
-    Search
-    Tag
-    Timestamp
-
-
-.. toctree::
-
+   Mixin_Owner
+   Mixin_Tag
+   Mixin_PublicFeatured
+   Mixin_Search
+   Mixin_ElementText
+   Mixin_Timestamp

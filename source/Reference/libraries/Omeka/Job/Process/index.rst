@@ -1,13 +1,9 @@
 ```````````````````````````
-Libraries/Omeka/Job/Process
+libraries/Omeka/Job/Process
 ```````````````````````````
 
 .. toctree::
 
-    AbstractProcess
-    Dispatcher
-    Wrapper
-
-
-.. toctree::
-
+   Omeka_Job_Process_AbstractProcess
+   Omeka_Job_Process_Wrapper
+   Omeka_Job_Process_Dispatcher

@@ -1,11 +1,7 @@
 ````````````````````````````````
-Libraries/Omeka/Plugin/Installer
+libraries/Omeka/Plugin/Installer
 ````````````````````````````````
 
 .. toctree::
 
-    Exception
-
-
-.. toctree::
-
+   Omeka_Plugin_Installer_Exception

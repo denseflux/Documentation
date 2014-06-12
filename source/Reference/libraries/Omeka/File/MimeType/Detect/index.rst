@@ -1,12 +1,8 @@
 ````````````````````````````````````
-Libraries/Omeka/File/MimeType/Detect
+libraries/Omeka/File/MimeType/Detect
 ````````````````````````````````````
 
 .. toctree::
 
-    StrategyInterface
-
-
-.. toctree::
-
-    Strategy/index
+   Omeka_File_MimeType_Detect_StrategyInterface
+   Strategy/index

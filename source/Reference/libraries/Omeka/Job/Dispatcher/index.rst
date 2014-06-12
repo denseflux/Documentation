@@ -1,13 +1,9 @@
 ``````````````````````````````
-Libraries/Omeka/Job/Dispatcher
+libraries/Omeka/Job/Dispatcher
 ``````````````````````````````
 
 .. toctree::
 
-    Default
-    DispatcherInterface
-
-
-.. toctree::
-
-    Adapter/index
+   Omeka_Job_Dispatcher_Default
+   Omeka_Job_Dispatcher_DispatcherInterface
+   Adapter/index

@@ -4,11 +4,9 @@ FilesController
 
 .. php:class:: FilesController
 
-    Package: :doc:`Controller </Reference/packages/Controller/index>`
+extends :php:class:`Omeka_Controller_AbstractActionController`
 
     .. php:attr:: contexts
-    
-
 
     .. php:method:: init()
 
@@ -23,9 +21,9 @@ FilesController
     .. php:method:: _getFileElementSets()
 
     .. php:method:: _getDeleteConfirmMessage($record)
-    
-        :param unknown $record:
+
+        :param $record:
 
     .. php:method:: _redirectAfterDelete($record)
-    
-        :param unknown $record:
+
+        :param $record:

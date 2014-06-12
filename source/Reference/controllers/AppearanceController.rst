@@ -4,7 +4,7 @@ AppearanceController
 
 .. php:class:: AppearanceController
 
-    Package: :doc:`Controller </Reference/packages/Controller/index>`
+extends :php:class:`Omeka_Controller_AbstractActionController`
 
     .. php:method:: indexAction()
 
