@@ -1,0 +1,40 @@
+.. _f (double underscore):
+
+######################
+__ (double underscore)
+######################
+
+:doc:`Locale-related functions </Reference/packages/Omeka/Function/Locale/index>`
+
+*******
+Summary
+*******
+
+.. include:: /Reference/libraries/globals/summary/__.rst
+
+.. php:function:: __($string)
+
+    Translate a string.
+    
+    :type $string: string
+    :param $string: The string to be translated.
+    :returns: string The translated string.
+
+*****
+Usage
+*****
+
+.. include:: /Reference/libraries/globals/usage/__.rst
+
+********
+Examples
+********
+
+.. include:: /Reference/libraries/globals/examples/__.rst
+
+********
+See Also
+********
+
+.. include:: /Reference/libraries/globals/see_also/__.rst
+
