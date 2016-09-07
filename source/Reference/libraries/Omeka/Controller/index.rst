@@ -4,11 +4,8 @@ libraries/Omeka/Controller
 
 .. toctree::
 
-    AbstractActionController
-
-
-.. toctree::
-
-    Exception/index
-    Plugin/index
-    Router/index
+   Exception/index
+   Router/index
+   Omeka_Controller_AbstractActionController
+   AbstractActionController
+   Plugin/index

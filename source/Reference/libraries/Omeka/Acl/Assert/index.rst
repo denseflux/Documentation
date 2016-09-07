@@ -4,9 +4,7 @@ libraries/Omeka/Acl/Assert
 
 .. toctree::
 
-    Ownership
-    User
-
-
-.. toctree::
-
+   Ownership
+   Omeka_Acl_Assert_Ownership
+   User
+   Omeka_Acl_Assert_User

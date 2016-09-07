@@ -4,11 +4,9 @@ libraries/Omeka/Form
 
 .. toctree::
 
-    Admin
-    DisplayGroup
-
-
-.. toctree::
-
-    Decorator/index
-    Element/index
+   DisplayGroup
+   Decorator/index
+   Omeka_Form_Admin
+   Element/index
+   Admin
+   Omeka_Form_DisplayGroup

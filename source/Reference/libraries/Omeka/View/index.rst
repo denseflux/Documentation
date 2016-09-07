@@ -4,5 +4,5 @@ libraries/Omeka/View
 
 .. toctree::
 
-    Exception
-
+   Exception
+   Omeka_View_Exception

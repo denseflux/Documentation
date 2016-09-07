@@ -4,9 +4,7 @@ libraries/Omeka/Form/Element
 
 .. toctree::
 
-    Input
-    SessionCsrfToken
-
-
-.. toctree::
-
+   SessionCsrfToken
+   Omeka_Form_Element_Input
+   Input
+   Omeka_Form_Element_SessionCsrfToken
